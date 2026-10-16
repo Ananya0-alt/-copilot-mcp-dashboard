@@ -4,8 +4,7 @@
 
 Live dashboard that fetches real-time GitHub data - repositories, pull requests, issues.
 
-🔗 **Live Demo:** https://reimagined-space-orbit-qv957v7wx6gw36xpg-3000.app.github.dev
-*(replace with Vercel link after deploy)*
+🔗 **Live Demo:https://copilot-mcp-dashboard.vercel.app
 
 ### Features
 - 🔍 Search any GitHub username
